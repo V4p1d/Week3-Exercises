@@ -1,3 +1,13 @@
-# Write a program that receives a string input and a single character (two separate inputs). 
-# The program will print the input string but without any occurrence of the input character.
-# Example: input1 = "Hello", input2 = "l", output = "Heo"
+# Write a program that receives as input an integer and prints the following (e.g., for input 4)
+# 1
+# 2
+# 2
+# 3
+# 3
+# 3
+# 4
+# 4
+# 4
+# 4
+# In other words, all the integers up to that value, a number of times equal to the integers themselves.
+# Hint, you might want to use two nested loops.
